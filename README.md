@@ -65,6 +65,7 @@ Security notes and common footguns per builder:
 ## Tools
 
 - [bleek scanner](https://www.bleek.dev/scan) - Runs 26 checks against a live URL, no signup.
+- [Check My Vibe](https://checkmyvibeapp.com/) - Runs a free passive review of public headers, exposed source maps, credential-shaped client strings, and common sensitive paths, then provides a separate 36-point manual checklist.
 - [Security headers checker](https://www.bleek.dev/tools/security-headers) - Grades the response headers on any page.
 - [SSL / TLS checker](https://www.bleek.dev/tools/ssl-checker) - Certificate and protocol check for a hostname.
 - [Email security checker](https://www.bleek.dev/tools/email-security) - Verifies SPF, DKIM, and DMARC records.
