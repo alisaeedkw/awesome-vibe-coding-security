@@ -70,6 +70,7 @@ Security notes and common footguns per builder:
 - [Email security checker](https://www.bleek.dev/tools/email-security) - Verifies SPF, DKIM, and DMARC records.
 - [Have I Been Pwned](https://haveibeenpwned.com/) - Checks whether an email has appeared in a known breach.
 - [Pwned Passwords](https://haveibeenpwned.com/Passwords) - Checks a password against billions of breached credentials.
+- [Next.js Supabase Stripe Security Checker](https://github.com/edtrackai/nextjs-supabase-stripe-security-checker) - Free open-source CLI and GitHub Action that flags AI-agent mistakes in Next.js + Supabase + Stripe code, like exposed service-role keys and missing RLS.
 
 ## Standards and learning
 
