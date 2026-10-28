@@ -68,6 +68,7 @@ Security notes and common footguns per builder:
 - [Security headers checker](https://www.bleek.dev/tools/security-headers) - Grades the response headers on any page.
 - [SSL / TLS checker](https://www.bleek.dev/tools/ssl-checker) - Certificate and protocol check for a hostname.
 - [Email security checker](https://www.bleek.dev/tools/email-security) - Verifies SPF, DKIM, and DMARC records.
+- [rooGBotVC](https://vc.roogbotai.com) - Free read-only scan of a live app for leaked keys, open .env and .git files, missing security headers and SEO gaps, with no account needed.
 - [Have I Been Pwned](https://haveibeenpwned.com/) - Checks whether an email has appeared in a known breach.
 - [Pwned Passwords](https://haveibeenpwned.com/Passwords) - Checks a password against billions of breached credentials.
 
