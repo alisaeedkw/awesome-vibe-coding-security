@@ -24,6 +24,7 @@ The most common leak in AI-built apps is a database table with row-level securit
 - [Supabase Row Level Security](https://supabase.com/docs/guides/database/postgres/row-level-security) - Official guide to enabling RLS and writing policies.
 - [Firebase Security Rules](https://firebase.google.com/docs/rules) - Access-control rules for Firestore and Realtime Database.
 - [OWASP Broken Access Control](https://owasp.org/Top10/A01_2021-Broken_Access_Control/) - The number-one web risk, and the category this leak falls under.
+- [How to test Supabase RLS](https://shiplatch.com/guides/test-supabase-rls) - Signed-out and two-user curl checks that your policies actually block access.
 
 ## By platform
 
