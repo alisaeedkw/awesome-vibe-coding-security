@@ -70,6 +70,7 @@ Security notes and common footguns per builder:
 - [Email security checker](https://www.bleek.dev/tools/email-security) - Verifies SPF, DKIM, and DMARC records.
 - [Have I Been Pwned](https://haveibeenpwned.com/) - Checks whether an email has appeared in a known breach.
 - [Pwned Passwords](https://haveibeenpwned.com/Passwords) - Checks a password against billions of breached credentials.
+- [Ship-Ready Lite](https://github.com/getshipready/ship-ready-skills) - Free MIT agent skills plus an offline quick scan for leaked keys, open Supabase tables and unverified Stripe webhooks in AI-built apps.
 
 ## Standards and learning
 
