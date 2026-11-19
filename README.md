@@ -64,6 +64,7 @@ Security notes and common footguns per builder:
 
 ## Tools
 
+- [HOL Guard](https://hol.org/guard) - Adds local policy checks and approvals at supported coding-agent action points; it does not scan the finished app.
 - [bleek scanner](https://www.bleek.dev/scan) - Runs 26 checks against a live URL, no signup.
 - [Security headers checker](https://www.bleek.dev/tools/security-headers) - Grades the response headers on any page.
 - [SSL / TLS checker](https://www.bleek.dev/tools/ssl-checker) - Certificate and protocol check for a hostname.
